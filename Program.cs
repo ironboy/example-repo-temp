@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Good Morning, Good Day and Good Night!");
+﻿Console.WriteLine("Good Morning, Good Day and Good Nite!");
