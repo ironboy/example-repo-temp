@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hej världen!!");
+﻿Console.WriteLine("Good Morning, Good Day and Good Night!");
