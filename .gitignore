@@ -1,0 +1,6 @@
+# Common temp folders in C# projects
+bin/
+obj/
+
+# Mac specific
+.DS_Store
