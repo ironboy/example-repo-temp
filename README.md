@@ -1,6 +1,6 @@
 # Getting started with the project
 * You need to install a dotnet SDK (>=10.x).
-* Don't forget to use an IDE with C# support.
+* Don't forget to use an IDE with C# SUPPORT.
 
 # Checklist
 1. Make sure the project runs when you write `dotnet run`
